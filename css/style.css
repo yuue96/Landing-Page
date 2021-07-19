@@ -16,7 +16,7 @@ html {
     
 }
 
-.titulo {
+.title {
     background-color: black;
     background-size: cover;
     color: rgb(245, 21, 55);
@@ -26,7 +26,7 @@ html {
     
 }
 
-.subtitulo {
+.subtitle {
     background-image: url(../assets/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
